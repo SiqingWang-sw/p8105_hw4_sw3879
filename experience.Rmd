@@ -6,13 +6,13 @@ output:
     toc_float: true
 ---
 
-# Academic 
-Bachelors degree: Johns Hopkins University 
-Masters degree: Columbia University 
+## Academic 
+Bachelors degree: <br>
+Masters degree: <br>
 
 # Experience 
-Pfizer
-Markerting Intern 
+Pfizer<br>
+--Markerting Intern <br>
 
-Johns Hopkins University
-Clinical Research Coordinator 
+Johns Hopkins University <br>
+--Clinical Research Coordinator <br>

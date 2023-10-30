@@ -5,3 +5,57 @@ date: "2023-10-30"
 output: html_document
 ---
 
+## Loading libraries and datasets 
+```{r}
+library(plotly)
+library(tidyverse)
+library(dplyr)
+library(p8105.datasets)
+data("instacart")
+```
+
+Downsampling the dataset 
+```{r}
+produce_instacart = instacart |> filter(department == "produce")
+```
+
+Creating a bar plot
+```{r}
+produce_instacart |> 
+  count(product_name) |> 
+  arrange(desc(n)) |> 
+  head(10) |> 
+  mutate(product_name = fct_reorder(product_name, n, .desc = TRUE)) |> 
+  plot_ly(x = ~product_name, y = ~n, 
+          color = ~product_name, 
+          type = "bar", colors = "viridis") |> 
+  layout(title = "Top 10 most ordered products in the produce department",
+         xaxis = list(title = "Product Name"),
+         yaxis = list(title = "Number of times ordered"))
+```
+
+Creating a box plot
+```{r}
+produce_instacart |> 
+  group_by(order_dow) |> 
+  count(aisle) |> 
+  plot_ly(y = ~n, color = ~aisle, type = "box", colors = "viridis") |> 
+  layout(title = "Number of products order for each aisle in produce department per day",
+         yaxis = list(title = "Number of order"))
+```
+
+Creating a scatter plot
+```{r}
+produce_instacart |> 
+  group_by(order_hour_of_day) |> 
+  count(aisle) |> 
+  plot_ly(x = ~order_hour_of_day, y = ~n, 
+          type = "scatter", mode = "markers", 
+          name = ~aisle) |> 
+  layout(title = "Number of order from each aisle in a day",
+         xaxis = list(title = "Hour of day"),
+         yaxis = list(title = "Number of order"))
+```
+
+
+

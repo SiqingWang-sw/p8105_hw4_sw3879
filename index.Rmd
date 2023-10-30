@@ -9,5 +9,5 @@ output:
 # Welcome
 This is an introductory landing page for my website for p8105 hw4. 
 
-# Here's something about my background 
+# My background 
 [Click here for my experience](experience.html)
