@@ -29,5 +29,7 @@ output:
 * Managed clinical research database  
 
 ## Skills
+* Data analysis: R, Python, Stata
+* Tools: Microsoft suite 
 
 
