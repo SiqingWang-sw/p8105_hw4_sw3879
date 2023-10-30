@@ -7,12 +7,27 @@ output:
 ---
 
 ## Academic 
-Bachelors degree: <br>
-Masters degree: <br>
+**Johns Hopkins University**
 
-# Experience 
-Pfizer<br>
---Markerting Intern <br>
+*Bachelor of Science in Molecular and Cellular Biology, 2018/09 - 2021/12*
 
-Johns Hopkins University <br>
---Clinical Research Coordinator <br>
+**Columbia University**
+
+*Master of Science in Biostatistics, 2023/09 - 2025/05*
+
+## Experience 
+**Pfizer**
+
+*Markerting Intern, 2023/05 - 2023/08*
+
+* Analyzed sales data and developed marketing strategies 
+
+**Johns Hopkins University School of Medicine**
+
+*Clinical Research Coordinator, 2022/05 - 2023/04*
+
+* Managed clinical research database  
+
+## Skills
+
+
