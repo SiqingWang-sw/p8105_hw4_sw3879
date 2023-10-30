@@ -12,6 +12,3 @@ This is an introductory landing page for my website for p8105 hw4.
 
 # Here's something about my background 
 [Click here for my experience](experience.html)
-
-# Here are some helpful links
-[My Github account]()
