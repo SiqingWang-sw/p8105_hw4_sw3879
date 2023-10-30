@@ -1,5 +1,5 @@
 ---
-title: "My awesome website"
+title: "Siqing's website"
 output: 
   html_document:
     toc: true
@@ -7,6 +7,11 @@ output:
     theme: cerulean
 ---
 
-# This is Jeff's awesome website
+# Welcome
+This is an introductory landing page for my website for p8105 hw4. 
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+# Here's something about my background 
+[Click here for my experience](experience.html)
+
+# Here are some helpful links
+[My Github account]()

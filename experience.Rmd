@@ -1,0 +1,19 @@
+---
+title: "Siqing's experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Academic 
+Bachelors degree: Johns Hopkins University 
+Masters degree: Columbia University 
+
+# Experience 
+Pfizer
+Markerting Intern 
+
+Johns Hopkins University
+Clinical Research Coordinator 
