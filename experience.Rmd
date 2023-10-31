@@ -21,15 +21,18 @@ output:
 *Markerting Intern, 2023/05 - 2023/08*
 
 * Analyzed sales data and developed marketing strategies 
+* Tracked market access progress
 
 **Johns Hopkins University School of Medicine**
 
 *Clinical Research Coordinator, 2022/05 - 2023/04*
 
-* Managed clinical research database  
+* Managed clinical research database
+* Collaborated Sr. Data Analysts to clean clinical data
 
 ## Skills
 * Data analysis: R, Python, Stata
 * Tools: Microsoft suite 
 
+Please click [here](Siqing Wang Resume v1.pdf) for a complete pdf resume 
 

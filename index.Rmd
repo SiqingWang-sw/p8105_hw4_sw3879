@@ -6,14 +6,17 @@ output:
     toc_float: true
 ---
 
-# Welcome
+# Welcome!
 This is an introductory landing page for my website for p8105 hw4. 
 
-## My background 
+
+## My experience
 [Click here for my experience](experience.html)
+
 
 ## Dashboard
 [Click here for my dashboard for HW4](dashboard.html)
+
 
 ## Code
 [Click here to view my code for HW4](plots.html)

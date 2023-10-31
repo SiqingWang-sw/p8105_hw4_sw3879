@@ -16,10 +16,10 @@ data("instacart")
 produce_instacart = instacart |> filter(department == "produce")
 ```
 
-Column {data-width=650}
+Column {data-width=500}
 -----------------------------------------------------------------------
 
-### Chart A
+### Top 10 most ordered products in the produce department
 
 ```{r}
 produce_instacart |> 
@@ -35,10 +35,10 @@ produce_instacart |>
          yaxis = list(title = "Number of times ordered"))
 ```
 
-Column {data-width=350}
+Column {data-width=500}
 -----------------------------------------------------------------------
 
-### Chart B
+### Number of produce order per day
 
 ```{r}
 produce_instacart |> 
@@ -49,7 +49,7 @@ produce_instacart |>
          yaxis = list(title = "Number of order"))
 ```
 
-### Chart C
+### Number of Produce order by hour
 
 ```{r}
 produce_instacart |> 

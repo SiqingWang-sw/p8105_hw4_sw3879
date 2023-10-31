@@ -5,7 +5,7 @@ date: "2023-10-30"
 output: html_document
 ---
 
-## Loading libraries and datasets 
+Loading libraries and datasets 
 ```{r}
 library(plotly)
 library(tidyverse)
