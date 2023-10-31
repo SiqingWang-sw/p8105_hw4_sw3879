@@ -52,7 +52,7 @@ produce_instacart |>
   plot_ly(x = ~order_hour_of_day, y = ~n, 
           type = "scatter", mode = "markers", 
           name = ~aisle) |> 
-  layout(title = "Number of order from each aisle in a day",
+  layout(title = "Number of Produce order from each aisle in a day",
          xaxis = list(title = "Hour of day"),
          yaxis = list(title = "Number of order"))
 ```
