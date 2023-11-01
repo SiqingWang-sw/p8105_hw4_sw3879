@@ -10,13 +10,17 @@ output:
 This is an introductory landing page for my website for p8105 hw4. 
 
 
-## My experience
+# My experience
 [Click here for my experience](experience.html)
 
 
-## Dashboard
+# Dashboard
+Please check out the dashboard I made for Instacart order data! 
+
 [Click here for my dashboard for HW4](dashboard.html)
 
 
-## Code
+# Code
+Feel free to check out my code for the dashboard. 
+
 [Click here to view my code for HW4](plots.html)
