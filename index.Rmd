@@ -9,10 +9,11 @@ output:
 # Welcome!
 This is an introductory landing page for my website for p8105 hw4. 
 
+This website includes some information about my academic experience, and a dashboard that I created to visualize instacart order data. 
 
 # My experience
-[Click here for my experience](experience.html)
 
+[Click here for my experience](experience.html)
 
 # Dashboard
 Please check out the dashboard I made for Instacart order data! 
@@ -21,6 +22,11 @@ Please check out the dashboard I made for Instacart order data!
 
 
 # Code
+
 Feel free to check out my code for the dashboard. 
 
 [Click here to view my code for HW4](plots.html)
+
+# Contact Information
+
+Please find my email and github site on the upper right corner in the navigation bar. 
