@@ -34,5 +34,5 @@ output:
 * Data analysis: R, Python, Stata
 * Tools: Microsoft suite 
 
-Please click [here](Siqing Wang Resume v1.pdf) for a complete pdf resume 
+Please click [here](SiqingWang_Resume_v1.pdf) for a complete pdf resume. 
 

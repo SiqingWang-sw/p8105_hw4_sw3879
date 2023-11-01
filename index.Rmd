@@ -13,7 +13,7 @@ This website includes some information about my academic experience, and a dashb
 
 # My experience
 
-[Click here for my experience](experience.html)
+You can learn more about my experience in the [about](about.html) tab.
 
 # Dashboard
 Please check out the dashboard I made for Instacart order data! 

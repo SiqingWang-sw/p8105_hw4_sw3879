@@ -1,5 +1,5 @@
 ---
-title: "About my website"
+title: "About Siqing"
 output: 
   html_document:
     toc: true
@@ -8,8 +8,38 @@ output:
 
 # Hello!
 
-Welcome to Siqing's website for P8105 hw4! 
+Welcome to my website for P8105 hw4! 
 
+Here are some of my educational background and experience: 
 
+## Education 
+**Johns Hopkins University**
+
+*Bachelor of Science in Molecular and Cellular Biology, 2018/09 - 2021/12*
+
+**Columbia University**
+
+*Master of Science in Biostatistics, 2023/09 - 2025/05*
+
+## Experience 
+**Pfizer**
+
+*Markerting Intern, 2023/05 - 2023/08*
+
+* Analyzed sales data and developed marketing strategies 
+* Tracked market access progress
+
+**Johns Hopkins University School of Medicine**
+
+*Clinical Research Coordinator, 2022/05 - 2023/04*
+
+* Managed clinical research database
+* Collaborated Sr. Data Analysts to clean clinical data
+
+## Skills
+* Data analysis: R, Python, Stata
+* Tools: Microsoft suite 
+
+Please click [here](SiqingWang_Resume_v1.pdf) for a complete pdf resume. 
 
 
